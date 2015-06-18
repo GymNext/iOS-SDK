@@ -1,5 +1,5 @@
 # iOS-SDK
-SDK for interacting with GymNext devices on iOS
+SDK for integrating with GymNext devices on iOS
 
 # Step 1:  Clone Repo
 
